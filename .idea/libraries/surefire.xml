@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="surefire">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java/target/surefire/surefirebooter131426356558032794.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/target/surefire/surefirebooter4968405168277311578.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/target/surefire/surefirebooter7253115233679865098.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/target/surefire/surefirebooter1967018453395314279.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/target/surefire/surefirebooter651381202047142397.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/target/surefire/surefirebooter1163184321690588355.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/target/surefire/surefirebooter7052165682033541775.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/target/surefire/surefirebooter5683129964712455359.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/target/surefire/surefirebooter343687154465292938.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/target/surefire/surefirebooter8644719238037444008.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/target/surefire/surefirebooter7502163984840649949.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/target/surefire/surefirebooter6174142267457028203.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/target/surefire/surefirebooter1565689249144421742.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/target/surefire/surefirebooter5326686097831958981.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/target/surefire/surefirebooter8694900682217631964.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/target/surefire/surefirebooter4942620806226120387.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/target/surefire/surefirebooter4915704268202352329.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

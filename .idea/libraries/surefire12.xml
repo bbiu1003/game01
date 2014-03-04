@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="surefire1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter5283871673615935621.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter4817345831724189445.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter8995879667803017637.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter7266192547456100804.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter6841309932878391262.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter8052559527417697656.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter7975772032030349335.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter7296618325625829705.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter5708071703567139589.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter758185449410213324.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter8962071375696741034.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter8320115001025260830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter4277917382116407431.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter5512021082829615809.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter6686767207741125892.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter2096182608032999480.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter7787713624551953840.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter5091007943497920367.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assets/target/surefire/surefirebooter6677292698621846558.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
